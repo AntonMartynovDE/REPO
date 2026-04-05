@@ -1,1 +1,7 @@
 print ('gg ez')
+print ('ANTON')
+print ('ANTON')
+print ('ANTON')
+print ('ANTON')
+print ('ANTON')
+print ('ANTON')
