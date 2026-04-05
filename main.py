@@ -1,4 +1,7 @@
 print ('gg ez')
+print ('!!!')
+print ('!!!')
+print ('!!!')
 print ('ANTON')
 print ('ANTON')
 print ('ANTON')
